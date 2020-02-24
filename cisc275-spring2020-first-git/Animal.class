@@ -1,6 +1,0 @@
-class Animal{
-	public int legs;
-	Animal(int x){
-		this.legs=x;
-	}
-}
